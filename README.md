@@ -407,20 +407,5 @@ npm install
 - **Safari**: 14+
 - **Edge**: 90+
 
-## 📧 Support
-
-For support, email frontend@talynx.com or create an issue on GitHub.
-
-## 🔗 Related Projects
-
-- [Talynx Backend](https://github.com/yourusername/talynx-backend) - FastAPI backend with ML
-- [Talynx Mobile](https://github.com/yourusername/talynx-mobile) - React Native mobile app
-- [Talynx Docs](https://github.com/yourusername/talynx-docs) - Documentation site
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 **Manogya Guragai**
